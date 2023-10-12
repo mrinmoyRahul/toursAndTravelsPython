@@ -1,0 +1,46 @@
+.name
+{
+    margin-left:200px
+}
+.email
+{
+    margin-left: 216px;
+}
+.pass
+{
+    margin-left: 201px;
+}
+.conpass
+{
+    margin-left: 130px;
+}
+div
+{
+    background-color: skyblue;
+    width:550px;
+    height:300px;
+    border-radius: 20px;
+    padding-top:40px;
+    box-sizing: border-box;
+    margin-top:150px;
+    margin-left: 380px;
+}
+label
+{
+    margin-top:50px;
+    margin-left:30px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 25px;
+}
+input[type="submit"]
+{
+    margin-left:220px;
+    margin-top: 20px;
+    width:100px;
+    height: 40px;
+    background-color: lawngreen;
+    border-radius: 20px;
+}
+body{
+    background-color:greenyellow;
+}

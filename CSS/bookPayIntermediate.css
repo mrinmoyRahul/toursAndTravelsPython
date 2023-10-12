@@ -1,0 +1,28 @@
+
+img{
+    height:554px;
+    width:660px;
+}
+.col{
+	padding: 0px;
+}
+.sec
+{
+	
+	background-color: blue;
+}
+.frame{
+   margin-top:80px;
+   margin-left:200px;
+}
+label
+{
+	//margin-top:50px;
+	//margin-bottom:50px;
+	margin-right:50px;
+	font-family: 'Roboto', sans-serif;
+}
+input[type="text"]{
+	width:50px;
+}
+

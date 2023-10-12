@@ -1,0 +1,44 @@
+body
+{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 30px;
+}
+.desc
+{	
+	margin-top:100px;
+	
+}
+.pname{
+    margin-left: 400px;
+	width:300px;
+	height:40px;
+}
+textarea
+{
+    margin-left: 550px;
+    height: 300px;
+    width: 500px;
+}
+.aph
+{
+    margin-left: 370px;
+    width:300px;
+	height:40px;
+}
+input[type="submit"]
+{
+    height:50px;
+    width:200px;
+    background-color: darkseagreen;
+    border-radius: 8px;
+    margin-left:510px;
+}
+div
+{
+    margin-top:70px;
+    margin-left: 100px;
+}
+body
+{
+    background-color: greenyellow;
+}

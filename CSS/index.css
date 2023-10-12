@@ -1,0 +1,30 @@
+img{
+	margin-left:10px;
+	border:2px solid blue;
+	margin-bottom:10px;
+	height:150px;
+	width:250px;
+	margin-top:40px;
+}
+body
+{
+	padding:0px;
+	margin:0px;
+}
+.col-sm{
+	//border:2px solid blue;
+	padding-left:20px;
+	text-align:center;
+}
+.one
+{
+	padding-left:40px;
+}
+.three
+{
+	padding-right: 80px;
+}
+h2
+{
+	text-align:center
+}
